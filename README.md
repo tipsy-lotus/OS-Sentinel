@@ -86,6 +86,10 @@
 
 3. Run `pipeline/multi_method_consistency.py` after `result.json` is ready.
 
+## 🎨 Slides
+
+[Link](https://docs.google.com/presentation/d/1sMDtVkBMWHEWGwI0HNLL28SkPQ7JQgTN/edit?usp=sharing&ouid=104572134427627088562&rtpof=true&sd=true)
+
 ## 📋 Citation
 
 
